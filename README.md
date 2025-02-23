@@ -1,10 +1,10 @@
-#online quiz
+# online quiz
 
-#Overview
+## Overview
 
 The DB Quiz Project is a Java Full Stack web application designed for conducting database-related quizzes. It features a backend built with Spring Boot and a frontend using JSP. Users can create, manage, and participate in quizzes.
 
-#Features
+## Features
 
 User authentication and authorization
 
@@ -16,19 +16,19 @@ Score tracking and leaderboard
 
 Technologies Used
 
-#Backend
+## Backend
 
 Java (Spring Boot)
 
 MySQL Database
 
-#Frontend
+## Frontend
 
 JSP, HTML, CSS, JavaScript
 
 Bootstrap for styling
 
-#Installation and Setup
+## Installation and Setup
 
 Prerequisites
 
@@ -42,11 +42,11 @@ MySQL Database
 
 Tomcat Server (if deploying manually)
 
-#Access the application:
+## Access the application:
 
 Open a web browser and visit: http://localhost:8080
 
-#Usage
+## Usage
 
 Register or log in as a user.
 
@@ -54,6 +54,6 @@ Admins can create quizzes and add questions.
 
 Users can attempt quizzes and view their scores.
 
-#Contributing
+## Contributing
 
 Feel free to fork this repository, create a branch, and submit a pull request.
