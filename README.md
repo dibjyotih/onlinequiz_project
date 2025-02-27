@@ -1,4 +1,4 @@
-# online quiz
+# Online quiz
 
 ## Overview
 
@@ -44,7 +44,7 @@ Tomcat Server (if deploying manually)
 
 ## Access the application:
 
-Open a web browser and visit: http://localhost:8080
+Website hosted with the help of Tomcat server on local host 8080
 
 ## Usage
 
