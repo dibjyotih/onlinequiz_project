@@ -52,6 +52,10 @@ Register or log in as a user.
 
 Admins can create quizzes and add questions.
 
+## Access
+
+Go to master to view all the required files
+
 Users can attempt quizzes and view their scores.
 
 ## Contributing
